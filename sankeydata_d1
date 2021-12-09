@@ -1,0 +1,50 @@
+[{
+    "sex": "female",
+    "ses": "LTEL",
+    "Not eligible": 50.0,
+    "Minimally eligible": 30.0,
+    "Fully eligible": 20.0
+
+},{
+    "sex": "male",
+    "ses": "LTEL",
+    "Not eligible": 55.0,
+    "Minimally eligible": 25.0,
+    "Fully eligible": 20.0
+},{
+    "sex": "female",
+    "ses": "STEL",
+    "Not eligible": 40.0,
+    "Minimally eligible": 40.0,
+    "Fully eligible": 20.0
+},{
+    "sex": "male",
+    "ses": "STEL",
+    "Not eligible": 40.0,
+    "Minimally eligible": 50.0,
+    "Fully eligible": 10.0
+},{
+    "sex": "female",
+    "ses": "RFEP",
+    "Not eligible": 30.0,
+    "Minimally eligible": 20.0,
+    "Fully eligible": 50.0
+},{
+    "sex": "male",
+    "ses": "RFEP",
+    "Not eligible": 30.0,
+    "Minimally eligible": 30.0,
+    "Fully eligible": 40.0
+},{
+    "sex": "female",
+    "ses": "Not-EL",
+    "Not eligible": 10.0,
+    "Minimally eligible": 30.0,
+    "Fully eligible": 60.0
+},{
+    "sex": "male",
+    "ses": "Not-EL",
+    "Not eligible": 20.0,
+    "Minimally eligible": 15.0,
+    "Fully eligible": 65.0
+}]
